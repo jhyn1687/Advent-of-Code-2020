@@ -1,0 +1,56 @@
+# Advent-of-Code-2020
+This is my first year of Advent of Code, and I've been enjoying all the puzzles so far. As someone who has just started pursuing my education in computer science, this has been an eye opening experience for me. 
+
+It's so interesting seeing other people's solutions to the puzzles, and it only makes me want to explore more programming languages. My time and placement on the leaderboard might not be the best, but I hope I can look back at this in the future and be proud of how far I've come.
+
+## My Solutions
+
+[Day 1](Solutions/src/Day1.java): (7993/10772)
+
+[Day 2](Solutions/src/Day2.java): (9370/8607)
+
+[Day 3](Solutions/src/Day3.java): (37748/35312)
+
+[Day 4](Solutions/src/Day4.java): (14892/11289)
+
+[Day 5](Solutions/src/Day5.java): (3791/3334)
+
+[Day 6](Solutions/src/Day6.java): (10286/9122)
+
+[Day 7](Solutions/src/Day7.java): (34224/29436)
+
+[Day 8](Solutions/src/Day8.java): (18288/14931)
+
+Day 9
+
+Day 10
+
+Day 11
+
+Day 12
+
+Day 13
+
+Day 14
+
+Day 15
+
+Day 16
+
+Day 17
+
+Day 18
+
+Day 19
+
+Day 20
+
+Day 21
+
+Day 22
+
+Day 23
+
+Day 24
+
+Day 25
