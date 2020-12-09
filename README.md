@@ -21,7 +21,7 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 
 [Day 8](Solutions/src/Day8.java): (18288/14931)
 
-Day 9
+[Day 9](Solutions/src/Day9.java): (19169/17188)
 
 Day 10
 
