@@ -23,11 +23,11 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 
 [Day 9](Solutions/src/Day9.java): (19169/17188)
 
-[Day 10](Solutions/src/Day10.java) (40916/30468)
+[Day 10](Solutions/src/Day10.java): (40916/30468)
 
-Day 11
+[Day 11](Solutions/src/Day11.java): Incomplete
 
-Day 12
+[Day 12](Solutions/src/Day12.java): (27202/24044)
 
 Day 13
 
