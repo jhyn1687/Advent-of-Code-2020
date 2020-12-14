@@ -31,7 +31,7 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 
 [Day 13](Solutions/src/Day13.java): (8534/3743)
 
-Day 14
+[Day 14](Solutions/src/Day14.java): (13775/10596)
 
 Day 15
 
