@@ -1,4 +1,5 @@
 # Advent-of-Code-2020
+###### _Note: I had to put to hold on my puzzles after Day 15 due to finals, but I do plan to revisit this at a later date._
 This is my first year of Advent of Code, and I've been enjoying all the puzzles so far. As someone who has just started pursuing my education in computer science, this has been an eye opening experience for me. 
 
 It's so interesting seeing other people's solutions to the puzzles, and it only makes me want to explore more programming languages. My time and placement on the leaderboard might not be the best, but I hope I can look back at this in the future and be proud of how far I've come.
@@ -33,9 +34,9 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 
 [Day 14](Solutions/src/Day14.java): (13775/10596)
 
-Day 15
+[Day 15](Solutions/src/Day15.java): (25973/24268)
 
-Day 16
+Day 16: Incomplete
 
 Day 17
 
