@@ -33,11 +33,11 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 
 [Day 14](Solutions/src/Day14.java): (13775/10596)
 
-Day 15
+[Day 15](Solutions/src/Day15.java): (25973/24268)
 
-Day 16
+[Day 16](Solutions/src/Day16.java): Incomplete
 
-Day 17
+[Day 17](Solutions/src/Day17.java): Incomplete
 
 Day 18
 
