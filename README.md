@@ -37,21 +37,3 @@ It's so interesting seeing other people's solutions to the puzzles, and it only 
 [Day 15](Solutions/src/Day15.java): (25973/24268)
 
 Day 16: Incomplete
-
-Day 17
-
-Day 18
-
-Day 19
-
-Day 20
-
-Day 21
-
-Day 22
-
-Day 23
-
-Day 24
-
-Day 25
